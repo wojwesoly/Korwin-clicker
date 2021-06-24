@@ -22,6 +22,7 @@ public class Game : MonoBehaviour
 
         Btn.onClick.AddListener(Click);
         UpgBtn.onClick.AddListener(Upgrade);
+        MenuBtn.onClick.AddListener(Menu);
 
     }
 
