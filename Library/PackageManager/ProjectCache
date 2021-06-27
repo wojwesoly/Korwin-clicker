@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637601514325396724
-    m_Hash: 2053551833
+      ticks: 637603815491510959
+    m_Hash: 3119708035
   m_LockFileStatus:
     m_FilePath: G:/Documents/School/Cyfrowanka/2020-21/Game Dev/Unity/Korwin_Clicker/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637601514591843972
-    m_Hash: 2154220959
+      ticks: 637603815491560054
+    m_Hash: 4025997024
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
