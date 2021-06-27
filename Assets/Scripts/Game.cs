@@ -10,7 +10,7 @@ public class Game : MonoBehaviour
     public Button UpgBtn;
     public Button MenuBtn;
     public Text txt;
-    public int score;
+    private int score;
     private int inc = 1;
 
     void Start()
