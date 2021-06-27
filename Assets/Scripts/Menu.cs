@@ -15,6 +15,7 @@ public class Menu : MonoBehaviour
         StartBtn.onClick.AddListener(Load);
         ExitBtn.onClick.AddListener(Exit);
     }
+    
     public void Load()
     {
         SceneManager.LoadScene("Game");
